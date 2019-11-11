@@ -63,7 +63,7 @@ create new project
 1. create a folder wherever
 2. open cmd @local folder
 3. type `ng new projectName` (No, enter[CSS], No)
-4. type `cd projectName` ('dir' if u cant remember da name)
+4. type `cd projectName` ('dir' if u cant remember the name)
 5. type `code .` (open proj in VSC)
 	5.1. if not working:
 	5.2. make sure VSC is installed, else
